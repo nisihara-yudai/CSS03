@@ -87,3 +87,45 @@ p#midori{
   font-size: 25px;
   margin: 10px 0;
 }
+
+#left{
+  text-align: left;
+  margin: 10px 0;
+}
+
+#center{
+  text-align: center;
+  margin: 10px 0;
+}
+#right{
+  text-align: right;
+  margin: 10px 0;
+}
+
+#justify{
+  text-align-last: justify;
+  margin: 10px 0;
+}
+
+#height01{
+  font-size: 20px;
+  line-height: normal;
+  margin: 10px 0;
+}
+#height02{
+  font-size: 20px;
+  line-height: 50%;
+  margin: 10px 0;
+}
+
+#height03{
+  font-size: 20px;
+  line-height: 60px;
+  margin: 10px 0;
+}
+
+#height04{
+  font-size: 20px;
+  line-height: 4;
+  margin: 10px 0;
+}
