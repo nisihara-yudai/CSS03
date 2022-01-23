@@ -1,0 +1,72 @@
+div#red{
+  color: red;
+  font-size: 30px;
+  font-weight: normal;
+  font-style: normal;
+  border-top: 10px;
+}
+
+p#aka{
+  color: red;
+  font-size: 50％;
+  font-weight: bold;
+  text-decoration: underline;
+  
+}
+
+div#blue{
+  color: blue;
+  font-size: 30px;
+  font-weight: normal;
+  font-style: italic;
+  
+}
+
+p#ao{
+  color: blue;
+  font-size: 0.8em;
+  font-weight: bolder;
+  text-decoration: overline;
+}
+
+#green{
+  color: green;
+  font-size: 30px;
+  font-weight: normal;
+  font-style: oblique;
+}
+
+p#midori{
+  color: green;
+  font-size: 2rem;
+  font-weight: lighter;
+  text-decoration: line-through;
+}
+
+.red{
+  color: #ff0000;
+}
+
+.blue{
+  color: #0000ff;
+}
+
+.green{
+  color: #00ff00;
+}
+
+.aka{
+  color: rgba(255, 0, 0, 0.1);
+}
+
+.ao{
+  color: rgba(0, 0, 255, 0.5);
+}
+
+.midori{
+  color: rgba(0, 255, 0, 1);
+}
+
+.font{
+  font-family: 'Pinyon Script', cursive;
+}
